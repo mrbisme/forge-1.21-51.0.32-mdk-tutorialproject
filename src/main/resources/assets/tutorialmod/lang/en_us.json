@@ -15,5 +15,12 @@
   "block.tutorialmod.magic_block": "Magic Block",
 
   "creativetab.tutorialmod.alexandrite_items": "Alexandrite Items",
-  "creativetab.tutorialmod.alexandrite_blocks": "Alexandrite Blocks"
+  "creativetab.tutorialmod.alexandrite_blocks": "Alexandrite Blocks",
+
+  "tooltip.tutorialmod.magic_block.tooltip": "When a rabbits foot OR raw alexandrite is thrown on this block, something §9MAGICAL§r will happen",
+
+  "tooltip.tutorialmod.chisel.shift_down": "Turns some stone into its brick variant §o(and another block into something special)§r",
+  "tooltip.tutorialmod.chisel": "Press §eShift§r for more info",
+
+  "tooltip.tutorialmod.kohlrabi": "Gives 1.5 hunger bars"
 }
